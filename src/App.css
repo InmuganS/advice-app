@@ -26,6 +26,7 @@
   flex-direction: column;
   border-radius: 25px;
   padding: 2%;
+  overflow:auto;
   box-shadow: 3px 3px;
 }
 
