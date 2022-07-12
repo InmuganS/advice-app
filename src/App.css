@@ -3,7 +3,6 @@
   padding: 0;
   height:100vh;
   box-sizing: border-box;
-  overflow:auto;
 }
 
 .app{
@@ -33,7 +32,6 @@
 
 .heading{
   display: flex;
-  align-items: center;
   height: 580px;
   overflow:auto;
   font-family: 'League Spartan', sans-serif;
